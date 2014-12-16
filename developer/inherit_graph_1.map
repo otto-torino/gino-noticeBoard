@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_gino_1_1_app_1_1_notice_board_1_1_notice_board_category.html" title="Classe di tipo Gino.Model che rappresenta una categoria di documenti. " alt="" coords="132,5,284,46"/>
+<area shape="rect" id="node3" href="$class_gino_1_1_app_1_1_notice_board_1_1_notice_board_deliberative.html" title="Classe di tipo Gino.Model che rappresenta un organo deliberante. " alt="" coords="125,70,291,111"/>
+<area shape="rect" id="node4" href="$class_gino_1_1_app_1_1_notice_board_1_1_notice_board_item.html" title="Classe di tipo Gino.Model che rappresenta un atto dell&#39;albo pretorio. " alt="" coords="132,135,284,177"/>
+<area shape="rect" id="node5" href="$class_gino_1_1_app_1_1_notice_board_1_1_notice_board_item_attachment.html" title="Classe di tipo Gino.Model che rappresenta un allegato ad un atto. " alt="" coords="113,201,303,242"/>
+</map>
