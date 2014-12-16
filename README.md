@@ -1,4 +1,4 @@
-Modulo PressReview per gino CMS by Otto Srl, MIT license      {#mainpage}
+Modulo NoticeBoard per gino CMS by Otto Srl, MIT license      {#mainpage}
 ===================================================================
 Release 0.1.0 - Requires gino 2.0.0
 
