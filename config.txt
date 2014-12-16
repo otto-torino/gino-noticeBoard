@@ -1,0 +1,2 @@
+name:"noticeBoard",version:"0.1.0",tbl_name:"notice_board",instantiable:"1",description:"Gestore di un albo pretorio",removable:"1",folders:"contents/noticeBoard"
+
