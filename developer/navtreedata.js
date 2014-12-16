@@ -1,7 +1,7 @@
 var NAVTREE =
 [
   [ "gino-noticeBoard", "index.html", [
-    [ "Modulo PressReview per gino CMS by Otto Srl, MIT license", "index.html", null ],
+    [ "Modulo NoticeBoard per gino CMS by Otto Srl, MIT license", "index.html", null ],
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ]
     ] ],
